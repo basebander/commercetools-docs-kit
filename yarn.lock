@@ -3284,7 +3284,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@commercetools-api-specs/test@workspace:api-specs/test"
   dependencies:
-    "@commercetools-docs/rmf-codegen": 13.11.0
+    "@commercetools-docs/rmf-codegen": 13.13.0
   languageName: unknown
   linkType: soft
 
@@ -3453,15 +3453,6 @@ __metadata:
     js-yaml: ^4.0.0
   languageName: unknown
   linkType: soft
-
-"@commercetools-docs/rmf-codegen@npm:13.11.0":
-  version: 13.11.0
-  resolution: "@commercetools-docs/rmf-codegen@npm:13.11.0"
-  bin:
-    rmf-codegen: bin/rmf-codegen.js
-  checksum: be37c72751fb8c6bb1cb0a4879a5b9ac050ce1ab6f07fef47f79a2bf68bcd654cc224ee644f27af7da4e3eb0a0f822006627ea04693b8b5a3a0a639bc9ddf5ca
-  languageName: node
-  linkType: hard
 
 "@commercetools-docs/rmf-codegen@npm:13.13.0":
   version: 13.13.0
@@ -10628,6 +10619,7 @@ __metadata:
     jest-watch-typeahead: 1.0.0
     linkinator: 3.0.3
     lint-staged: 12.3.4
+    mri: ^1.2.0
     postcss-syntax: 0.36.2
     prettier: 2.5.1
     react: 17.0.2
@@ -20379,7 +20371,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mri@npm:^1.1.0, mri@npm:^1.1.4":
+"mri@npm:^1.1.0, mri@npm:^1.1.4, mri@npm:^1.2.0":
   version: 1.2.0
   resolution: "mri@npm:1.2.0"
   checksum: 83f515abbcff60150873e424894a2f65d68037e5a7fcde8a9e2b285ee9c13ac581b63cfc1e6826c4732de3aeb84902f7c1e16b7aff46cd3f897a0f757a894e85
