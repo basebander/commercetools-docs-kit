@@ -1,5 +1,13 @@
 # @commercetools-docs/ui-kit
 
+## 19.9.1
+
+### Patch Changes
+
+- [#1457](https://github.com/commercetools/commercetools-docs-kit/pull/1457) [`598a26f9`](https://github.com/commercetools/commercetools-docs-kit/commit/598a26f967ad6a0202661d5969c315009260fc59) Thanks [@gabriele-ct](https://github.com/gabriele-ct)! - Gracefully degrates when rendering links in table headers in mobile view
+
+- [#1463](https://github.com/commercetools/commercetools-docs-kit/pull/1463) [`d052cb76`](https://github.com/commercetools/commercetools-docs-kit/commit/d052cb767f7b1d5b165b1c65fd5052fc62a2fb10) Thanks [@gabriele-ct](https://github.com/gabriele-ct)! - Nested numbered list are displaying according to Google guidelines
+
 ## 19.9.0
 
 ### Minor Changes
